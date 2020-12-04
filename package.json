@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-plugin-innedit",
+  "version": "0.0.1",
+  "description": "Gastby Plugin Innedit.",
+  "main": "index.js",
+  "author": "Mathieu Queval <mathieu.queval@innedit.fr>",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "image",
+    "innedit"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
