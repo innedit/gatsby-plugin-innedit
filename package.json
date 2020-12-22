@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-innedit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gastby Plugin Innédit.",
   "main": "index.js",
   "author": "Mathieu Queval <mathieu.queval@innedit.fr>",
